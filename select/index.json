@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ack!",
+  "base_artist": "LanPage",
+  "createdAt": "2026-02-06T17:01:04.365798Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ack Like U Want It",
+      "artist": "Black Moon",
+      "has_synced": true,
+      "path": "select/01_Ack_Like_U_Want_It_Black_Moon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ack!!",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/02_Ack!!_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ack Ack Ack",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/03_Ack_Ack_Ack_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ack, sundbyberg",
+      "artist": "Oskar Linnros",
+      "has_synced": true,
+      "path": "select/04_Ack,_sundbyberg_Oskar_Linnros.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flash B Ack (Instrumental)",
+      "artist": "Aki Akane",
+      "has_synced": true,
+      "path": "select/05_Flash_B_Ack_(Instrumental)_Aki_Akane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flash-B(l)ack",
+      "artist": "Decapitated",
+      "has_synced": true,
+      "path": "select/06_Flash-B(l)ack_Decapitated.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ack-A-Donkey",
+      "artist": "Krizz Kaliko feat. Kutt Calhoun",
+      "has_synced": false,
+      "path": "select/07_Ack-A-Donkey_Krizz_Kaliko_feat._Kutt_Calhoun.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ack-A-Donkey (feat. Kutt Calhoun)",
+      "artist": "Krizz Kaliko",
+      "has_synced": false,
+      "path": "select/08_Ack-A-Donkey_(feat._Kutt_Calhoun)_Krizz_Kaliko.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ack Högaste Himmel",
+      "artist": "Dia Psalma",
+      "has_synced": true,
+      "path": "select/09_Ack_Högaste_Himmel_Dia_Psalma.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ack Blake, käre Blace",
+      "artist": "Ulf Lundell",
+      "has_synced": true,
+      "path": "select/10_Ack_Blake,_käre_Blace_Ulf_Lundell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ack, göta konungarike",
+      "artist": "Hootenanny Singers",
+      "has_synced": false,
+      "path": "select/11_Ack,_göta_konungarike_Hootenanny_Singers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flash‐B(l)ack",
+      "artist": "Decapitated",
+      "has_synced": true,
+      "path": "select/12_Flash‐B(l)ack_Decapitated.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flash B ack",
+      "artist": "Aki Akane",
+      "has_synced": true,
+      "path": "select/13_Flash_B_ack_Aki_Akane.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Epistel Nr. 34: Ack, vad för en usel koja",
+      "artist": "Fred Åkerström",
+      "has_synced": false,
+      "path": "select/14_Epistel_Nr._34__Ack,_vad_för_en_usel_koja_Fred_Åkerström.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Epistel Nr. 34: Ack, vad för en usel koja",
+      "artist": "Åkerström, Fred",
+      "has_synced": false,
+      "path": "select/15_Epistel_Nr._34__Ack,_vad_för_en_usel_koja_Åkerström,_Fred.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "$moke a $ack",
+      "artist": "Ruby da Cherry",
+      "has_synced": false,
+      "path": "select/16_$moke_a_$ack_Ruby_da_Cherry.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Better Dayz Ack",
+      "artist": "Sickboyrari",
+      "has_synced": false,
+      "path": "select/17_Better_Dayz_Ack_Sickboyrari.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ack!",
+      "artist": "LanPage",
+      "has_synced": false,
+      "path": "select/pl_01_ack!_LanPage.txt"
+    }
+  ]
+}
